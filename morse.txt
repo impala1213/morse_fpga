@@ -1,0 +1,19 @@
+key 0123 - 0123
+menu 01 - 6 7
+sw 01 - 8 9
+
+sw0 - to light
+sw1 - reset seg
+menu0 - rx
+menu1 - tx
+rx
+0-dot
+1-dash
+2-delete
+3-confirm
+
+tx
+0-set A
+1-next alpha
+2-save reg
+3-reset reg
