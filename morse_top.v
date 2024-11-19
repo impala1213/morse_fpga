@@ -11,7 +11,6 @@ module morse_top(
     output wire [6:0] HEX2,  
     output wire [6:0] HEX3, 
     output wire [7:3] LEDG, // LEDG[0] TX
-    output wire LEDR,
     output wire [3:0] kcount
 );
 
